@@ -1,0 +1,8 @@
+{
+  "name": "Remix Trợ Lý Quản Trị Học Tập – Thầy Minh Vũ",
+  "description": "Hệ thống quản trị học tập môn  Toán THPT dành cho Thầy  Minh Vũ THPT Bình Long TP Đồng Nai",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
